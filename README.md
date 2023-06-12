@@ -25,7 +25,7 @@ The project focuses on automating the testing of RESTful APIs using Python. It i
 
 1. Clone the repository:
 2. Install the dependencies:
-pip3 install requests 
+`pip3 install requests `
 
 ### Usage
 
